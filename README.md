@@ -1,7 +1,5 @@
 # Netflix Engagement Analysis
 
-# Netflix Engagement Analysis
-
 ## Project Overview
 
 This project analyses Netflix's official *What We Watched* engagement data to explore viewing patterns across seven reporting periods from 2023 H1 to 2026 H1.
